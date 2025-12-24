@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Mohammad Bashar Al-Majzoub</h1>
+<h1 align="center">Hello 👋, I'm Mohammad Bishr Al-Majzoub</h1>
 <h3 align="center">Software Engineer | UI/UX Designer | Back-End Developer</h3>
 
 <p align="center">
@@ -12,7 +12,7 @@
 I'm a **Software Engineer** specialized in **Software Engineering**, graduated from **Damascus University**.
 
 I work as a **UI/UX Designer** and **Back-End Developer**, focusing on building clean, scalable, and user-friendly systems.  
-I currently work at a **Saudi company called Montasher**.
+I currently work at a **Saudi company called Mntshr**.
 
 I’m also a **Media Buyer** and the **Founder of Rawaa Page**, combining technical development with marketing and user behavior understanding.
 
